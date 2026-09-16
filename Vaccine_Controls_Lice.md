@@ -51,4 +51,12 @@ Reduced attachment / feeding / fecundity
 
 ## 2. Experimental Vaccine Candidates and Reported Trial Results
 
+| Vaccine Type / Approach | Reported Efficacy | Key Details |
+|---|---|---|
+| **IPath®** (Recombinant) | Up to 73.7% reduction in sea lice burden | Developed by researchers in Chile. Strong results against *Caligus rogercresseyi*, particularly when combined with commercial vaccines. |
+| **CrVtg-VWF** (Subunit) | 40.2%–53.4% reduction | Vitellogenin-based vaccine tested against *C. rogercresseyi* in Chile; affects both male and female parasites. |
+| **Polypeptide Vaccine** | Moderate reduction (effect size ≈ 0.07 lice/fish) | Tested in Norway against *L. salmonis*; small but positive reduction in mature female lice counts vs. controls. |
+| **Peptide-Based Vaccine** (peroxiredoxin-2) | 60–70% (Norway); 92% (Chile) | Proof-of-concept study from the Norwegian University of Life Sciences (NMBU); significant protection using the peroxiredoxin-2 antigen. |
+| **Oral Vaccine** | N/A (in development) | Under development at the University of Stirling; aims to generate a skin-level immune response via oral delivery, targeting a practical, eco-friendly delivery route. |
+
 
