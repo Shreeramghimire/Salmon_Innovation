@@ -8,4 +8,4 @@ This document summarizes the vaccine mechanism, followed by a comparative overvi
 
 ## 1. How the Vaccine Works
 
-The vaccine relies on redirecting the salmon's own immune system into the parasite's gut — sometimes described as a "Trojan horse" mechanism. It proceeds through four stages:
+The vaccine relies on redirecting the salmon's own immune system into the parasite's gut, sometimes described as a "Trojan horse" mechanism. It proceeds through four stages:
