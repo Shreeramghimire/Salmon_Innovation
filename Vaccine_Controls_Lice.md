@@ -80,3 +80,5 @@ The Economist. "Vaccines could keep salmon safe from sea lice." (10 July 2024). 
 PubMed. https://pubmed.ncbi.nlm.nih.gov/38793707/
 
 Fish Farming Expert. "Researchers may have developed an effective salmon lice vaccine." https://www.fishfarmingexpert.com/norway-sea-lice-vaccine/researchers-may-have-developed-an-effective-salmon-lice-vaccine/1445673
+
+PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11125789/
