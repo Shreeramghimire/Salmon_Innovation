@@ -88,3 +88,5 @@ SalmonBusiness. "Is a vaccine to combat sea lice just around the corner?" https:
 Nofima. https://nofima.no/publikasjon/1634123/
 
 Preprints.org. https://www.preprints.org/manuscript/202502.2273
+
+MDPI, *Vaccines*. https://www.mdpi.com/2076-393X/10/1/16
