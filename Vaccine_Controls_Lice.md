@@ -16,3 +16,5 @@ When sea lice attach to salmon, they feed on skin, mucus, and blood. To avoid tr
 ### Step 2: Isolating the Peptide (The Antigen)
 Rather than using a whole protein, researchers analyze its 3D structure and isolate a small synthetic fragment, often a peptide chain of around 13 amino acids — from a functionally critical region of the protein. A leading Norwegian candidate targets a peptide derived from **peroxiredoxin-2**, a protein essential to louse physiology. Other research groups target proteins involved in the louse gut or reproductive system.
 
+### Step 3: Vaccinating the Salmon
+The synthetic peptide is formulated into a vaccine and injected into salmon while still young parr, prior to sea-cage transfer. The salmon's immune system recognizes the peptide as foreign and produces specific antibodies, which then circulate through the blood, skin, and mucus.
