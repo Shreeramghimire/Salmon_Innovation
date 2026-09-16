@@ -98,3 +98,6 @@ ScienceDirect. https://www.sciencedirect.com/science/article/pii/S24055808260013
 University of Bergen. NANOLICE project. https://www4.uib.no/en/research/research-projects/nanolice
 
 Nofima. https://nofima.no/publikasjon/1838599/
+
+
+*Additional trial data (IPath®, CrVtg-VWF, polypeptide vaccine field trial, University of Stirling oral vaccine program) compiled from published aquaculture research and industry reporting; source-level citations for individual trial figures should be verified against the primary publications before formal use.*
