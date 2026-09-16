@@ -10,6 +10,6 @@ This document summarizes the vaccine mechanism, followed by a comparative overvi
 
 The vaccine relies on redirecting the salmon's own immune system into the parasite's gut, sometimes described as a "Trojan horse" mechanism. It proceeds through four stages:
 
-### Step 1 Identifying the Target (Secreted Proteins)
+### Step 1: Identifying the Target (Secreted Proteins)
 When sea lice attach to salmon, they feed on skin, mucus, and blood. To avoid triggering a local immune response and to digest host tissue, the lice secrete specific proteins and enzymes into the salmon's bloodstream. Norwegian researchers identified these lice-derived proteins by analyzing the blood of heavily infected salmon using mass spectrometry.
 
