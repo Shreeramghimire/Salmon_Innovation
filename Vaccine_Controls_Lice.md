@@ -69,4 +69,5 @@ Reduced attachment / feeding / fecundity
 
 - Because the mechanism targets core louse physiology (feeding, digestion, reproduction) rather than a single life stage, it may offer more durable protection than treatments lice can evolve resistance to.
 
+---
 
