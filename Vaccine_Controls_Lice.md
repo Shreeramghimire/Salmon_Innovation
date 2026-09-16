@@ -63,3 +63,4 @@ Reduced attachment / feeding / fecundity
 
 ## 3. Why This Matters for the Norwegian Industry
 
+- Sea lice management (delousing treatments, fallowing, mechanical/thermal removal, cleaner fish, etc.) is estimated to cost the Norwegian salmon industry **over NOK 5 billion per year**.
