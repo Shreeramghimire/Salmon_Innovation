@@ -84,3 +84,5 @@ Fish Farming Expert. "Researchers may have developed an effective salmon lice va
 PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11125789/
 
 SalmonBusiness. "Is a vaccine to combat sea lice just around the corner?" https://www.salmonbusiness.com/is-a-vaccine-to-combat-sea-lice-just-around-the-corner/
+
+Nofima. https://nofima.no/publikasjon/1634123/
