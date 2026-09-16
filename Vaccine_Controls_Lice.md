@@ -73,4 +73,8 @@ Reduced attachment / feeding / fecundity
 
 ## References
 
+Nofima. *Peptide-based vaccine against salmon lice.* https://nofima.com/publication/10339779/
+
+The Economist. "Vaccines could keep salmon safe from sea lice." (10 July 2024). https://www.economist.com/science-and-technology/2024/07/10/vaccines-could-keep-salmon-safe-from-sea-lice
+
 
