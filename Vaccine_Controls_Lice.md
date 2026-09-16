@@ -94,3 +94,5 @@ MDPI, *Vaccines*. https://www.mdpi.com/2076-393X/10/1/16
 Nofima. https://nofima.no/publikasjon/10339779/
 
 ScienceDirect. https://www.sciencedirect.com/science/article/pii/S2405580826001330
+
+University of Bergen. NANOLICE project. https://www4.uib.no/en/research/research-projects/nanolice
