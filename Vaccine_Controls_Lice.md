@@ -64,3 +64,7 @@ Reduced attachment / feeding / fecundity
 ## 3. Why This Matters for the Norwegian Industry
 
 - Sea lice management (delousing treatments, fallowing, mechanical/thermal removal, cleaner fish, etc.) is estimated to cost the Norwegian salmon industry **over NOK 5 billion per year**.
+
+- A prophylactic vaccine — administered once, at the parr stage — could substantially reduce reliance on reactive, repeated in-cage treatments, which are costly and carry fish welfare and lice-resistance trade-off concerns.
+
+- 
