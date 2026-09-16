@@ -96,3 +96,5 @@ Nofima. https://nofima.no/publikasjon/10339779/
 ScienceDirect. https://www.sciencedirect.com/science/article/pii/S2405580826001330
 
 University of Bergen. NANOLICE project. https://www4.uib.no/en/research/research-projects/nanolice
+
+Nofima. https://nofima.no/publikasjon/1838599/
