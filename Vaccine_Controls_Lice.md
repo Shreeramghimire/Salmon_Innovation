@@ -90,3 +90,5 @@ Nofima. https://nofima.no/publikasjon/1634123/
 Preprints.org. https://www.preprints.org/manuscript/202502.2273
 
 MDPI, *Vaccines*. https://www.mdpi.com/2076-393X/10/1/16
+
+Nofima. https://nofima.no/publikasjon/10339779/
