@@ -65,7 +65,7 @@ Reduced attachment / feeding / fecundity
 
 - Sea lice management (delousing treatments, fallowing, mechanical/thermal removal, cleaner fish, etc.) is estimated to cost the Norwegian salmon industry **over NOK 5 billion per year**.
 
-- A prophylactic vaccine — administered once, at the parr stage — could substantially reduce reliance on reactive, repeated in-cage treatments, which are costly and carry fish welfare and lice-resistance trade-off concerns.
+- A prophylactic vaccine, administered once at the parr stage, could substantially reduce reliance on reactive, repeated in-cage treatments, which are costly and carry fish welfare and lice-resistance trade-off concerns.
 
 - Because the mechanism targets core louse physiology (feeding, digestion, reproduction) rather than a single life stage, it may offer more durable protection than treatments lice can evolve resistance to.
 
