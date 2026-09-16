@@ -61,4 +61,5 @@ Reduced attachment / feeding / fecundity
 
 ---
 
+## 3. Why This Matters for the Norwegian Industry
 
