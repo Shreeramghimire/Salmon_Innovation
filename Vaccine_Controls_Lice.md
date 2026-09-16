@@ -19,7 +19,7 @@ Rather than using a whole protein, researchers analyze its 3D structure and isol
 ### Step 3: Vaccinating the Salmon
 The synthetic peptide is formulated into a vaccine and injected into salmon while still young parr, prior to sea-cage transfer. The salmon's immune system recognizes the peptide as foreign and produces specific antibodies, which then circulate through the blood, skin, and mucus.
 
-### Step 4 — Neutralization Inside the Louse
+### Step 4: Neutralization Inside the Louse
 When a louse subsequently attaches to a vaccinated fish and feeds, it inadvertently ingests the host's antibodies along with the blood/mucus. These antibodies bind to the louse's own vital internal proteins, for example, in its digestive tract, and neutralize them from within.
 
 ### Outcome
