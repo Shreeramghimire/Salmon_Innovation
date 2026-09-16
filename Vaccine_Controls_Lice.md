@@ -25,4 +25,27 @@ When a louse subsequently attaches to a vaccinated fish and feeds, it inadverten
 ### Outcome
 Across recent tank and field trials, this mechanism has shown it can reduce lice attachment success and substantially lower the reproductive capacity (fecundity) of female lice, thereby reducing overall infection pressure on a farm.
 
+```
+Infected salmon blood
+        │  (mass spectrometry)
+        ▼
+Identify louse-secreted proteins
+        │
+        ▼
+Isolate short peptide antigen (e.g., peroxiredoxin-2 fragment)
+        │
+        ▼
+Vaccinate parr → salmon produces antibodies
+        │
+        ▼
+Louse feeds on vaccinated fish → ingests antibodies
+        │
+        ▼
+Antibodies neutralize louse's internal proteins
+        │
+        ▼
+Reduced attachment / feeding / fecundity
+```
+
+----
 
