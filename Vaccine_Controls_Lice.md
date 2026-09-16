@@ -82,3 +82,5 @@ PubMed. https://pubmed.ncbi.nlm.nih.gov/38793707/
 Fish Farming Expert. "Researchers may have developed an effective salmon lice vaccine." https://www.fishfarmingexpert.com/norway-sea-lice-vaccine/researchers-may-have-developed-an-effective-salmon-lice-vaccine/1445673
 
 PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11125789/
+
+SalmonBusiness. "Is a vaccine to combat sea lice just around the corner?" https://www.salmonbusiness.com/is-a-vaccine-to-combat-sea-lice-just-around-the-corner/
