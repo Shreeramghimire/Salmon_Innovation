@@ -21,3 +21,8 @@ The synthetic peptide is formulated into a vaccine and injected into salmon whil
 
 ### Step 4 — Neutralization Inside the Louse
 When a louse subsequently attaches to a vaccinated fish and feeds, it inadvertently ingests the host's antibodies along with the blood/mucus. These antibodies bind to the louse's own vital internal proteins, for example, in its digestive tract, and neutralize them from within.
+
+### Outcome
+Across recent tank and field trials, this mechanism has shown it can reduce lice attachment success and substantially lower the reproductive capacity (fecundity) of female lice, thereby reducing overall infection pressure on a farm.
+
+
