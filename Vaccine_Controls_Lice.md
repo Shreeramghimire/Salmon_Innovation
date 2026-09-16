@@ -59,4 +59,6 @@ Reduced attachment / feeding / fecundity
 | **Peptide-Based Vaccine** (peroxiredoxin-2) | 60–70% (Norway); 92% (Chile) | Proof-of-concept study from the Norwegian University of Life Sciences (NMBU); significant protection using the peroxiredoxin-2 antigen. |
 | **Oral Vaccine** | N/A (in development) | Under development at the University of Stirling; aims to generate a skin-level immune response via oral delivery, targeting a practical, eco-friendly delivery route. |
 
+---
+
 
