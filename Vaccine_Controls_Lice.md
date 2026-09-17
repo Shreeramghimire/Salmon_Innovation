@@ -79,6 +79,8 @@ MDPI, *Vaccines*. https://www.mdpi.com/2076-393X/10/1/16
 
 Nofima. https://nofima.no/publikasjon/1838599/
 
+Nofima. https://nofima.no/publikasjon/1634123/
+
 Nofima. *Peptide-based vaccine against salmon lice.* https://nofima.com/publication/10339779/
 
 The Economist. "Vaccines could keep salmon safe from sea lice." (10 July 2024). https://www.economist.com/science-and-technology/2024/07/10/vaccines-could-keep-salmon-safe-from-sea-lice
@@ -89,7 +91,7 @@ PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11125789/
 
 SalmonBusiness. "Is a vaccine to combat sea lice just around the corner?" https://www.salmonbusiness.com/is-a-vaccine-to-combat-sea-lice-just-around-the-corner/
 
-Nofima. https://nofima.no/publikasjon/1634123/
+
 
 Preprints.org. https://www.preprints.org/manuscript/202502.2273
 
