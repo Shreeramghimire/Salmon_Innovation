@@ -73,13 +73,13 @@ Reduced attachment / feeding / fecundity
 
 ## References
 
+Fish Farming Expert. "Researchers may have developed an effective salmon lice vaccine." https://www.fishfarmingexpert.com/norway-sea-lice-vaccine/researchers-may-have-developed-an-effective-salmon-lice-vaccine/1445673
+
 Nofima. *Peptide-based vaccine against salmon lice.* https://nofima.com/publication/10339779/
 
 The Economist. "Vaccines could keep salmon safe from sea lice." (10 July 2024). https://www.economist.com/science-and-technology/2024/07/10/vaccines-could-keep-salmon-safe-from-sea-lice
 
 PubMed. https://pubmed.ncbi.nlm.nih.gov/38793707/
-
-Fish Farming Expert. "Researchers may have developed an effective salmon lice vaccine." https://www.fishfarmingexpert.com/norway-sea-lice-vaccine/researchers-may-have-developed-an-effective-salmon-lice-vaccine/1445673
 
 PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC11125789/
 
