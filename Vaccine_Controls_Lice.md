@@ -77,6 +77,8 @@ Fish Farming Expert. "Researchers may have developed an effective salmon lice va
 
 MDPI, *Vaccines*. https://www.mdpi.com/2076-393X/10/1/16
 
+Nofima. https://nofima.no/publikasjon/1838599/
+
 Nofima. *Peptide-based vaccine against salmon lice.* https://nofima.com/publication/10339779/
 
 The Economist. "Vaccines could keep salmon safe from sea lice." (10 July 2024). https://www.economist.com/science-and-technology/2024/07/10/vaccines-could-keep-salmon-safe-from-sea-lice
