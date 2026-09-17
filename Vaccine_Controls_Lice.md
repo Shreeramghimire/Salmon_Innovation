@@ -91,11 +91,13 @@ Preprints.org. https://www.preprints.org/manuscript/202502.2273
 
 PubMed. https://pubmed.ncbi.nlm.nih.gov/38793707/
 
+SalmonBusiness. "Is a vaccine to combat sea lice just around the corner?" https://www.salmonbusiness.com/is-a-vaccine-to-combat-sea-lice-just-around-the-corner/
+
 The Economist. "Vaccines could keep salmon safe from sea lice." (10 July 2024). https://www.economist.com/science-and-technology/2024/07/10/vaccines-could-keep-salmon-safe-from-sea-lice
 
 
 
-SalmonBusiness. "Is a vaccine to combat sea lice just around the corner?" https://www.salmonbusiness.com/is-a-vaccine-to-combat-sea-lice-just-around-the-corner/
+
 
 
 ScienceDirect. https://www.sciencedirect.com/science/article/pii/S2405580826001330
